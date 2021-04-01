@@ -1,0 +1,50 @@
+table caption {
+	padding: .5em 0;
+}
+
+table.dataTable th,
+table.dataTable td {
+  white-space: nowrap;
+}
+
+/* ============RoomCategory Component Section code start============ */
+.datatable-code-start{
+  padding: 20px;
+}
+.table thead th {
+  vertical-align: bottom;
+  border-bottom: 2px solid #dee2e6;
+  text-transform: uppercase;
+  font-size: 14px;
+}
+li#example_previous a {
+  padding: 7px 20px;
+}
+
+li#example_next a {
+  padding: 7px 20px;
+}
+.form-group label {
+  font-weight: 600;
+  font-size: 14px;
+}
+a.active {
+  color: #0062cc;
+}
+/* ============RoomCategory Component Section code END============ */
+
+
+
+
+
+
+
+
+/* =============Footer Code Start============== */
+.footer-section {
+  background: rgb(255 255 255);
+  padding: 10px 0px;
+  box-shadow: 0 1px 15px rgb(0 0 0 / 4%), 0 1px 6px rgb(0 0 0 / 4%);
+}
+
+/* =============Footer Code END============== */
